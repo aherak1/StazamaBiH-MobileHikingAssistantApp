@@ -1,7 +1,7 @@
 # StazamaBiH – Mobile App for Mountain Route Discovery  
 **Human–Computer Interaction Project (ETF Sarajevo)**
 
-HikersHub is a mobile application designed to support hikers by providing an intuitive interface for exploring mountains, viewing routes, checking weather conditions, and managing accommodation reservations.  
+StazamaBiH is a mobile application designed to support hikers by providing an intuitive interface for exploring mountains, viewing routes, checking weather conditions, and managing accommodation reservations.  
 The app was developed as part of the **Human–Computer Interaction (HCI)** course at the **Faculty of Electrical Engineering, University of Sarajevo**.
 
 ## Team
