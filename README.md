@@ -1,4 +1,4 @@
-# HikersHub – Mobile App for Mountain Route Discovery  
+# StazamaBiH – Mobile App for Mountain Route Discovery  
 **Human–Computer Interaction Project (ETF Sarajevo)**
 
 HikersHub is a mobile application designed to support hikers by providing an intuitive interface for exploring mountains, viewing routes, checking weather conditions, and managing accommodation reservations.  
